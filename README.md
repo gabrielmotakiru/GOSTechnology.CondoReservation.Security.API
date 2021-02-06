@@ -1,0 +1,1 @@
+# GOSTechnology.CondoReservation.Security.API
